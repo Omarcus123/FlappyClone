@@ -15,6 +15,16 @@ The goal of this project was to learn game development basics such as player inp
 - **TextMeshPro** for UI
 - **AudioSource** for sound effects
 
+## 📚 Learning Goals
+
+- Practice using C# inside Unity.
+
+- Understand the game loop and physics.
+
+- Manage UI (score text, high score, game over screen).
+
+- Learn how to save persistent data with PlayerPrefs.
+
 ## 🚀 How to Play
 1. Clone the repo:
    ```bash
