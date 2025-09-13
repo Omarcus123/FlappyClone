@@ -19,3 +19,5 @@ The goal of this project was to learn game development basics such as player inp
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/FlappyClone.git
+2. Open in Unity (version 2021.x or later).
+3. Press Play in the editor to start the game.
